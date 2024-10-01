@@ -1,0 +1,10 @@
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\bin\Debug\LogIn-form.exe.config
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\bin\Debug\LogIn-form.exe
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\bin\Debug\LogIn-form.pdb
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn-form.csproj.AssemblyReference.cache
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn_form.YozoLogInForm.resources
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn_form.Properties.Resources.resources
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn-form.csproj.GenerateResource.cache
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn-form.csproj.CoreCompileInputs.cache
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn-form.exe
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn-form.pdb
