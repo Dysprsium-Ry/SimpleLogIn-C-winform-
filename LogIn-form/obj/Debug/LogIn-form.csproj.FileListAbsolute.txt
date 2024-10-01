@@ -8,3 +8,7 @@ C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogI
 C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn-form.csproj.CoreCompileInputs.cache
 C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn-form.exe
 C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn-form.pdb
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Move Foundation\source\repos\WindowsFormsApp2\LogIn-form\obj\Debug\LogIn-form.csproj.Up2Date

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using WindowsFormsApp2;
 
 namespace LogIn_form
 {
@@ -15,17 +16,37 @@ namespace LogIn_form
 
         }
 
+        private void btnLogIn_Click(object sender, EventArgs e)
+        {
+            // Assume ValidateCredentials() checks the username and password
+            if (ValidateCredentials(txtBoxUsername.Text, txtBoxPassword.Text))
+            {
+                // If credentials are valid, show the MainForm
+                MainForm mainForm = new MainForm();
+                mainForm.Show();
+
+                // Hide the Login Form (or close it)
+                this.Hide(); // or this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Invalid credentials, please try again.");
+            }
+        }
+
+        private bool ValidateCredentials(string username, string password)
+        {
+            // Your validation logic here
+            return username == "admin" && password == "password"; // Example
+        }
+
+
         private void YozoLogInForm_Load(object sender, EventArgs e)
         {
 
         }
         
         private void logIn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnLogIn_Click(object sender, EventArgs e)
         {
 
         }
